@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FEC700;}
+	.st1{fill:#E6E6E6;}
+	.st2{fill:#4D5152;}
+</style>
+<polygon class="st0" points="189.1,182.3 189.1,286.4 164.4,286.4 164.4,296.4 64.4,296.4 64.4,286.4 39.7,286.4 39.7,258.3 "/>
+<polygon class="st0" points="322.9,182.3 322.9,286.4 347.6,286.4 347.6,296.4 447.6,296.4 447.6,286.4 472.3,286.4 472.3,258.3 "/>
+<polygon class="st1" points="266,417 266,454 349.9,473.7 349.9,452.7 "/>
+<polygon class="st1" points="246,417 162.1,452.7 162.1,473.8 246,454.2 "/>
+<g>
+	<rect x="229.1" y="80.7" class="st2" width="53.7" height="20"/>
+	<rect x="246" y="286.4" class="st2" width="20" height="20"/>
+	<rect x="84.4" y="286.4" class="st2" width="20" height="20"/>
+	<rect x="84.4" y="326.4" class="st2" width="20" height="53.3"/>
+	<rect x="124.4" y="286.4" class="st2" width="20" height="20"/>
+	<rect x="124.4" y="326.4" class="st2" width="20" height="53.3"/>
+	<rect x="407.6" y="286.4" class="st2" width="20" height="20"/>
+	<rect x="407.6" y="326.4" class="st2" width="20" height="53.3"/>
+	<rect x="367.6" y="286.4" class="st2" width="20" height="20"/>
+	<rect x="367.6" y="326.4" class="st2" width="20" height="53.3"/>
+	<path class="st2" d="M322.9,159.9v-6.7v-48.5c0-37.4-31.3-73.3-62.3-89.3L256,13l-4.6,2.4c-30.9,16-62.3,51.9-62.3,89.3v55.2
+		L19.7,246v60.4h44.7v-20H39.7v-28.1l149.5-76v104.1h-24.7v20h24.7v113.1l-40.9,17.4l0,0l-6.1,2.6V499L246,474.7v21.5h20v-21.7
+		L369.9,499v-59.5l-6.1-2.6l0,0l-40.9-17.4V306.4h24.7v-20h-24.7V182.3l149.5,76v28.1h-24.7v20h44.7V246L322.9,159.9z M162.1,473.8
+		v-21.1L246,417v37.2L162.1,473.8z M266,454v-37l83.9,35.7v21L266,454z M302.9,411L266,395.3v-68.9h-20v68.9L209.1,411V172.2v-5
+		v-62.5c0-24.2,19.8-53.1,46.9-69c27,15.9,46.9,44.8,46.9,69v48.5v14v5V411z"/>
+</g>
+</svg>

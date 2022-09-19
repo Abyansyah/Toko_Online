@@ -1,0 +1,17 @@
+.mb-4 {
+    display: flex;
+    margin: 0 43%;
+}
+
+.btn-block {
+    background-color: #088178;
+    border: none;
+    width: 800px;
+    margin-left: 25%;
+}
+
+.text-center h2 {
+    font-family: 'Poppins';
+    font-size: 34px;
+    font-weight: 700;
+}
